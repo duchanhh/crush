@@ -4,8 +4,8 @@ const CONFIG = {
     mà sao em cứ đi nhầm đường
     lạc vào tim anh lẻ loi vậy`,
     btnIntro: 'hihi',
-    title: ' phải chăng em đã y ê u ngay từ cái nhìn đầu tiên ',
-    desc: ' Phải chăng em đã s a y ngay từ lúc thấy nụ cười ấy ',
+    title: ' em có yêu anh không? ',
+    desc: ' Phải chăng em đã yêu ngay từ cái nhìn đầu tiên Phai chăng em đã s ay ngay từ lúc thấy nụ cười ấy',
     btnYes: 'Yêu anh lắm <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
